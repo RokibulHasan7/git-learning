@@ -1,0 +1,56 @@
+﻿OS– LINUX
+
+
+pwd  — Current Directory
+
+
+cd   —  Change Directory
+* cd .. — back directory
+* cd (current directory name) — go inside any directory
+* cd ~ — Change directory to home directory
+
+
+ls — List file inside current directory
+* ls -a — list of hidden files also
+* ls -l — give all file information (in byte) without hidden files
+* ls -la — give all file information with hidden files
+* ls -lah — give all file information (in giga byte)
+
+
+mkdir —  make new directory
+* mkdir (directory name) — it’s create new directory 
+* mkdir -p  (directory_name/directory_name) — grand_parent/parent/child directory
+
+
+rmdir — remove directory
+* rmdir (directory name) — make sure that directory is empty
+* rm -r (directory_name) — delete non-empty directory 
+
+
+touch — touch (file_name) —- create a file
+* touch (file_name1) (file_name2) — can create multiple files
+
+
+rm — remove file
+                
+                
+
+
+cp  —  copy file 
+* cp (file_name) (/../.. Destination directory start’s from root)—to another directory
+* cp (file_name) (copy_file_name) —for copy same folder and rename it
+
+
+mv — move file (as same to cp)
+cat — creating a file and writing inside it
+* cat > (file_name) (write text) — for create & write inside file
+* cat (file_name) — for opening text
+
+
+ 
+
+
+Some other’s:
+chmod +x myfile 
+
+GIT
