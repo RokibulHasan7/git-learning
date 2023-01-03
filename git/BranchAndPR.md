@@ -1,4 +1,4 @@
-### Clone a rpeo
+### Clone a repo
 ```azure
 git clone <repo_link>
 ```
