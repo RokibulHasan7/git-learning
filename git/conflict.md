@@ -29,3 +29,7 @@ git add conflicted_files
 ```azure
 git push origin <branch_name>
 ```
+
+-------------------------
+source: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
+-------------------------
